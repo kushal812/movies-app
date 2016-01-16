@@ -1,0 +1,27 @@
+{
+  "name": "movies app",
+  "description": "Manage your movies list",
+  "main": "main.js",
+  "authors": [
+    "Kushal"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "movies"
+  ],
+  "homepage": "https://github.com/kushal812/movies-app",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular-ui-router": "~0.2.15",
+    "angular": "~1.4.8"
+  }
+}
